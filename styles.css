@@ -51,6 +51,7 @@ input[type="text"]:focus {
 
 /* BUTTON */
 button {
+  margin-left: 10px;
   padding: 10px 16px;
   border: none;
   background: #4f46e5;
@@ -85,8 +86,8 @@ li:hover {
 
 /* CHECKBOX */
 input[type="checkbox"] {
-  width: 18px;
-  height: 18px;
+  width: 25px;
+  height: 25px;
   cursor: pointer;
 }
 
